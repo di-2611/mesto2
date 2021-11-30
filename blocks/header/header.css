@@ -1,0 +1,10 @@
+.header {
+    max-width: 882px;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    border-bottom-color: rgba(84, 84, 84, .7);
+  }
+

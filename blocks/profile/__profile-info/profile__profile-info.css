@@ -1,0 +1,14 @@
+.profile__profile-info {
+    margin-left: 30px;
+}
+@media (max-width : 759px) {
+    .profile__profile-info {
+        margin-top: 10.25px;
+        margin-left: 0;
+        display: flex;
+        position: relative;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+}

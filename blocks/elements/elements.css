@@ -1,0 +1,8 @@
+.elements{
+    max-width: 882px;
+}
+@media (max-width : 320px) {
+    .elements{
+        max-width: 282px;
+    }  
+}
