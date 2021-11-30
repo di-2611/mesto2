@@ -16,6 +16,6 @@
 - БЭМ
 
 # Ссылка на GitHub Pages:
-https://di-2611.github.io/mesto/
+https://di-2611.github.io/mesto2/
 
 
